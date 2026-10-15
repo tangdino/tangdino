@@ -5,9 +5,44 @@
 **折腾 Android / 自建服务 / 效率工具的开发者**
 
 [![GitHub followers](https://img.shields.io/github/followers/tangdino?label=Follow&style=social)](https://github.com/tangdino)
-[![GitHub repos](https://img.shields.io/badge/Repos-20%2B-blue?style=flat-square)](https://github.com/tangdino?tab=repositories)
 
 </div>
+
+---
+
+## 📊 我的 GitHub 数据
+
+<div align="center">
+
+### 📈 综合统计
+
+[![tangdino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangdino&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9)](https://github.com/tangdino)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tangdino&theme=dark&hide_border=true&bg_color=0D1117" alt=" streak" height="180" />
+
+</div>
+
+<details>
+<summary><b>🌐 语言分布</b></summary>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangdino&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/tangdino)
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🔥 贡献热力图</b></summary>
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58A6FF/tangdino" alt=" contribution graph" width="720" />
+
+</div>
+
+</details>
 
 ---
 
@@ -34,7 +69,7 @@
 
 ### Android / 逆向
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Magisk](https://img.shields.io/badge/KernelSU-00B39B?style=for-the-badge&logo=android&logoColor=white)
+![KernelSU](https://img.shields.io/badge/KernelSU-00B39B?style=for-the-badge&logo=android&logoColor=white)
 ![LSPosed](https://img.shields.io/badge/LSPosed-4CAF50?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
